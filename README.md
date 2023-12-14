@@ -1,2 +1,2 @@
-# scenicRoutesRUS
-Scenic routes for cities Russia
+# snake game
+snake game for android studio
